@@ -6,10 +6,10 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=stevan23k&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stevan23k&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-  <img align="left" height="150" src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stevan23k&locale=es&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img align="right" height="150" src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif"  />
 </div>
 
 ###
@@ -39,7 +39,7 @@
   <a href="https://open.spotify.com/user/esteproo">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=esteproo&count=3&unique=false" alt="Spotify recently played"  />
   </a>
-  <img align="right" src = "https://media1.tenor.com/m/3tvVB2VMVm8AAAAC/cute-anime.gif" height="250" width="250" />
+  <img align="right" src = "https://media1.tenor.com/m/3tvVB2VMVm8AAAAC/cute-anime.gif" height="250" width="270" />
 </div>
 
 ###
