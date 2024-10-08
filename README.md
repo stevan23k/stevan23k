@@ -39,7 +39,7 @@
   <a href="https://open.spotify.com/user/esteproo">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=esteproo&count=3&unique=false" alt="Spotify recently played"  />
   </a>
-  <img align="right" src = "https://media1.tenor.com/m/3tvVB2VMVm8AAAAC/cute-anime.gif" height="225" width="450" />
+  <img align="right" src = "https://media1.tenor.com/m/3tvVB2VMVm8AAAAC/cute-anime.gif" height="250" width="250" />
 </div>
 
 ###
