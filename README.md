@@ -17,7 +17,7 @@
   <summary><b>skills</b></summary>
 <div>
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,python,js,java,nodejs,npm)](https://skillicons.dev)
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/stevan23k?cardType=level&theme=github-dark&fontFamily=JetBrains%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
   
 </div>
 
