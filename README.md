@@ -17,7 +17,8 @@
 <details>
   <summary><b>skills</b></summary>
 <div>
-  
+
+  [![My Skills](https://skillicons.dev/icons?i=html,css,python,js,java,nodejs,npm)](https://skillicons.dev)
 
 </div>
 
