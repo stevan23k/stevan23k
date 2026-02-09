@@ -7,7 +7,9 @@
 ###
 
 <div align="left">
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/stevan23k?cardType=level&theme=github-dark&fontFamily=JetBrains%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/stevan23k?cardType=level&theme=github-dark&fontFamily=JetBrains%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
+  
   <img align="right" height="130" src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif"  />
 </div>
 
